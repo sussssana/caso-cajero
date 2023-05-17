@@ -5,6 +5,4 @@ int main()
     cout << "Susana no te enojes ";
 
     return 0; 
-
-
 }
