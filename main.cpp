@@ -3,8 +3,5 @@ using namespace std;
 int main()
 {
     cout << "Susana no te enojes ";
-
-    return 0; 
-
-
+    return 0;
 }
